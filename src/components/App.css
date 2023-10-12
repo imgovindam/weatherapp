@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-image: url(/public/landscape.jpg); */
+
+}
+
+.a {
+    background-image: url(/public/landscape.jpg);
+    background-repeat: no-repeat;
+
+}
